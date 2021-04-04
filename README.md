@@ -98,8 +98,8 @@ And much more!
  </div>
  
 <h3> You can ask the bot to search for songs by using /procurar + artist/song and it will return you a list of results it could find.</h3>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/QKcQ4JK/image.png" alt="image" height="400px" border="0"></a>
-<a href="https://ibb.co/W5fM9ds"><img src="https://i.ibb.co/dMDV937/image.png" alt="image" height="400px" border="0"></a> 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QKcQ4JK/image.png" alt="image" height="300px" border="0"></a>
+<a href="https://ibb.co/W5fM9ds"><img src="https://i.ibb.co/dMDV937/image.png" alt="image" height="300px" border="0"></a> 
 <br>
 From that list, you can select the songs you like by typing the numbers splitted by "," e.g: 1,5,8,9
 
