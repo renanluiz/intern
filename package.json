@@ -1,0 +1,29 @@
+{
+  "name": "intern-bot",
+  "version": "1.0.0",
+  "description": "Discord bot built from interns to interns using DiscordJS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanluiz/intern.git"
+  },
+  "keywords": [
+    "intern",
+    "music",
+    "bot",
+    "discord",
+    "js",
+    "automation"
+  ],
+  "author": "Renan Luiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanluiz/intern/issues"
+  },
+  "homepage": "https://github.com/renanluiz/intern#readme"
+}
